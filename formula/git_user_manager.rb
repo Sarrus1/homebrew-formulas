@@ -6,20 +6,20 @@ class GitUserManager < Formula
   desc "Cli tool to quickly change between git users"
   homepage "https://github.com/Sarrus1/git_user_manager"
   url "https://github.com/Sarrus1/git_user_manager/archive/0.1.0.tar.gz"
-  sha256 "d1812de2cce6fd414476d9f546109c2d08676948062d425cbed0b81777b291c9"
+  sha256 "57d4259ce497d2bac808a0ca32be3a2251a1bc98243d9783f7da0e5bcc6c68da"
   license "MIT"
 
   on_macos do
     on_intel do
       url "https://github.com/Sarrus1/git_user_manager/releases/download/0.1.0/git_user_manager-0.1.0-darwin-amd64.tar.gz"
-      sha256 "0cfdc9f86874eb9e4b15b9ac996c9526133fb98b5cb81bf18f3c7fd91dd19431"
+      sha256 "e88675e53467c7ff47818d7bdf886af5f937fa8f741614b79998bd553a88e81f"
     end
   end
 
   on_linux do
     on_intel do
       url "https://github.com/Sarrus1/git_user_manager/releases/download/0.1.0/git_user_manager-0.1.0-linux-amd64.tar.gz"
-      sha256 "849158b9984bdc8ed5f1e1806da3e87a82e9434d30085aa24738f34aeef8926b"
+      sha256 "c70e41ae740ee050ba64a902dcf5634030285ce90e045652d8aeb211dad70dc8"
     end
   end
 
