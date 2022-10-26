@@ -1,6 +1,6 @@
 <div align="center">
 
-# Justintime50's Homebrew Tap
+# Sarrus' Homebrew Tap
 
 My personal Homebrew tap housing formulas for all my Homebrew projects.
 
