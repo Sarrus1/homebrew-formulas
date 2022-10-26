@@ -23,7 +23,7 @@ brew search Sarrus1/formulas
 ```
 
 <!-- project_table_start -->
-| Project                                                                      | Description                                                                      | Install                             |
-| ---------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ----------------------------------- |
-| [git_user_manager](https://github.com/Sarrus1/git_user_manager) | CLI tool to quickly change between git users | `brew install git_user_manager` |
+| Project                                                         | Description                                  | Install                         |
+| --------------------------------------------------------------- | -------------------------------------------- | ------------------------------- |
+| [git-user-manager](https://github.com/Sarrus1/git_user_manager) | Cli tool to quickly change between git users | `brew install git-user-manager` |
 <!-- project_table_end -->
