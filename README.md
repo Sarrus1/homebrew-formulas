@@ -26,5 +26,6 @@ brew search Sarrus1/formulas
 | Project                                                           | Description                                  | Install                          |
 | ----------------------------------------------------------------- | -------------------------------------------- | -------------------------------- |
 | [git-user-manager](https://github.com/Sarrus1/git_user_manager)   | Cli tool to quickly change between git users | `brew install git-user-manager`  |
+| [sourcepawn-studio](https://github.com/Sarrus1/sourcepawn-studio) | Vscode extension for sourcepawn scripting    | `brew install sourcepawn-studio` |
 | [sourcepawn-vscode](https://github.com/Sarrus1/sourcepawn-vscode) | Vscode extension for sourcepawn scripting    | `brew install sourcepawn-vscode` |
 <!-- project_table_end -->
