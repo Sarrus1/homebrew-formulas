@@ -5,8 +5,8 @@
 class SourcepawnStudio < Formula
   desc "Vscode extension for sourcepawn scripting"
   homepage "https://github.com/Sarrus1/sourcepawn-studio"
-  url "https://github.com/Sarrus1/sourcepawn-studio/archive/refs/tags/v8.1.2.tar.gz"
-  sha256 "a9a05f49c49958b283a29b55cd1a0a0a685b623047b9e76f08dcdc497a9a77aa"
+  url "https://github.com/Sarrus1/sourcepawn-studio/archive/refs/tags/v8.1.3.tar.gz"
+  sha256 "b1cefb8ca9f9064adda10bc2322cfc952c32d180df6efdf801d19a0c701b999e"
   license "MIT"
 
   on_macos do
